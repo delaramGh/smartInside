@@ -12,6 +12,7 @@ to run the app, use this command: `streamlit run app.py`
 
 <img src="figs/app.jpg" width="80%">
 
+## Dataset Synthesis
 
 
 
